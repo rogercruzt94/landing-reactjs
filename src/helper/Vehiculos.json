@@ -1,0 +1,46 @@
+{
+      "pacientes": [
+            {
+                  "id": 10,
+                  "name": "Renault Sandero",
+                  "edad": 2015,
+                  "descripcion": "$ 47.500.000",
+                  "imagen": "../../src/assets/automovil1.jpg"
+            },
+            {
+                  "id": 20,
+                  "name": "Renault Logan",
+                  "edad": 2012,
+                  "descripcion": "$ 32.000.000",
+                  "imagen": "../../src/assets/automovil2.jpg"
+            },
+            {
+                  "id": 30,
+                  "name": "Nissan Versa ",
+                  "edad": 2022,
+                  "descripcion": "$ 76.900.000",
+                  "imagen": "../../src/assets/automovil3.jpg"
+            },
+            {
+                  "id": 40,
+                  "name": "Nissan Note GT",
+                  "edad": 2022,
+                  "descripcion": "$ 112.000.000",
+                  "imagen": "../../src/assets/automovil4.jpg"
+            },
+            {
+                  "id": 50,
+                  "name": "Chevrolet Spark Gt",
+                  "edad": 2017,
+                  "descripcion": "$ 46.000.000",
+                  "imagen": "../../src/assets/automovil5.jpg"
+            },
+            {
+                  "id": 60,
+                  "name": "Tesla Model 3",
+                  "edad": 2022,
+                  "descripcion": "$ 365.000.000",
+                  "imagen": "../../src/assets/automovil6.jpg"
+            }
+      ]
+}
