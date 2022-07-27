@@ -3,6 +3,7 @@ import "./App.css";
 import Navbar from "./components/navbar/Navbar";
 import ItemListContainer from "./components/itemList/ItemListContainer";
 import data from "./helper/Vehiculos.json";
+import ItemCount from "./components/ItemCount/ItemCount";
 
 function App() {
       return (
@@ -10,6 +11,10 @@ function App() {
                   <Navbar />
 
                   <ItemListContainer data={data} />
+
+                  <ItemCount/>
+
+
             </>
       );
 }

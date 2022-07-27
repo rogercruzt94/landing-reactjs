@@ -1,3 +1,5 @@
+import ItemCount from "../ItemCount/ItemCount";
+
 function ItemListContainer(props) {
       return (
             <>
@@ -33,12 +35,9 @@ function ItemListContainer(props) {
                                                             }
                                                       </p>
                                                 </div>
-                                                <a
-                                                      href="#"
-                                                      className="btn btn-primary mt-3"
-                                                >
-                                                      Agregar al Carrito
-                                                </a>
+                                            
+                                                     <ItemCount/>
+                                                
                                           </div>
                                     </div>
                               </div>

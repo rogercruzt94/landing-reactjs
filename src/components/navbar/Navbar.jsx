@@ -1,12 +1,13 @@
 import CartWidget from "./CartWidget";
 
+
 const navBar = () => {
       return (
             <nav className="navbar navbar-expand-lg bg-dark">
                   <div className="container-fluid ">
                         <a className="navbar-brand text-white p-3"  href="#">
                               Car Sale Colombia
-                           
+                  
 
                         </a>
                         <div className="d-flex justify-content-end">
